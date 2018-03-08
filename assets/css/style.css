@@ -6,3 +6,8 @@ body {
 .jumbotron,.card {
     opacity: .87;
 }
+#staticData,#dynamicData{
+    font-size: 16px;
+}
+
+
